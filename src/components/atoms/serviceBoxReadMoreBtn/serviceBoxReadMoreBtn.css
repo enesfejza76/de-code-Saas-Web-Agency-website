@@ -1,0 +1,12 @@
+.serviceBoxReadMoreBtn {
+    width: 102.92px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    color: #7BC0E3;
+    font-size: 14px;
+    background-color: transparent;
+    border: none;
+    outline: transparent;
+    font-weight: 700;
+}

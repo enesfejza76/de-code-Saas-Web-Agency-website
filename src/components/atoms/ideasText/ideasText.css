@@ -1,0 +1,10 @@
+.ideasText {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60.72px;
+    color: black;
+}
+
+.ideasText span {
+    color: #60E1CB;
+}

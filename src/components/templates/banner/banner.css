@@ -1,0 +1,7 @@
+.banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #60E1CB;
+    padding: 150px 0px;
+}

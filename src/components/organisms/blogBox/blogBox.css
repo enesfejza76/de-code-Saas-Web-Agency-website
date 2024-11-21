@@ -1,0 +1,6 @@
+.blogBox {
+    width: 85%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}

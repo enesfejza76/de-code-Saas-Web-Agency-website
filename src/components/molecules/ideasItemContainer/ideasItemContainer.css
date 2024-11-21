@@ -1,0 +1,9 @@
+.ideasItemContainer {
+    width: 60%;
+}
+
+.ideasItemContainerRow {
+    width: 80%;
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,9 @@
+.bannerBtn {
+    width: 211px;
+    height: 54px;
+    border-radius: 100px;
+    border: none;
+    background-color: #292525;
+    color: white;
+    font-weight: 700;
+}

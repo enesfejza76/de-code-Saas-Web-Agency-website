@@ -1,0 +1,13 @@
+.blog {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #E9FBF8;
+    padding: 100px 0px;
+}
+
+.blogBoxesContainerContain {
+    width: 40%;
+    display: flex;
+    gap: 20px;
+}

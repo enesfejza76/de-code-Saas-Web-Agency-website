@@ -1,0 +1,9 @@
+.blogBoxContainer {
+    width: 23%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.blogBoxContainerImage {
+    width: 100%;
+}

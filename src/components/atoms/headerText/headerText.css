@@ -1,0 +1,10 @@
+.headerText {
+    font-weight: 900;
+    font-size: 58px;
+    color: #292525;
+    margin-bottom: 12px;
+}
+
+.headerText span {
+    color: #60E1CB;
+}

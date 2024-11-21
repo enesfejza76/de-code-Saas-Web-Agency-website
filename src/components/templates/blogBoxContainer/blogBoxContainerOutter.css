@@ -1,0 +1,6 @@
+.blogBoxContainerOutter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px;
+}

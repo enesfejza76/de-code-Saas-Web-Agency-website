@@ -1,0 +1,8 @@
+.headerTextContainer {
+    width: 50%;
+}
+
+.headerTextButtonContainer {
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,9 @@
+.serviceBoxItemContainer {
+    width: 359px;
+    height: auto;
+    background-color: #FDFDFF;
+    border-radius: 12px;
+    box-sizing: #07003B1F;
+    border-top: 7px solid #60E1CB;
+    padding: 60px 30px;
+}

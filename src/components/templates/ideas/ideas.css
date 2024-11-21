@@ -1,0 +1,10 @@
+.ideas {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px;
+    background-image: url(../../assets/images/Illustration.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: 100% bottom;
+}

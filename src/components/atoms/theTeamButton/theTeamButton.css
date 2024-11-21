@@ -1,0 +1,9 @@
+.theTeamButton {
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #60E1CB;
+    color: white;
+    border: none;
+    outline: transparent;
+}
